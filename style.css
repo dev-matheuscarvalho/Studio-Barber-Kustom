@@ -19,10 +19,10 @@ body {
 }
 
 #container>header {
-    background-image: url(images/local300.jpg);
+    background-image: url(images/local.jpg);
+    background-attachment: fixed;
     height: 300px;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat:no-repeat;
     background-position: center;
 }
 
